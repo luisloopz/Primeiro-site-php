@@ -12,8 +12,9 @@
            $( "#accordion" ).accordion();
        });
        </script>
-       </head>
-       <body>
+</head>
+       
+    <body>
        
        <div id="accordion">
            <h3>O que estou achando da transição?</h3>
@@ -49,6 +50,4 @@
 			           alert("Bem vindos");
 				 });
 	</script>
-
-     </html>
-    
+</html>
